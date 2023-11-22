@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Sewer_Bill_Calculator\bin\Debug\net6.0\Sewer_Bill_Calculator.exe
+C:\Users\USER\source\repos\Sewer_Bill_Calculator\bin\Debug\net6.0\Sewer_Bill_Calculator.deps.json
+C:\Users\USER\source\repos\Sewer_Bill_Calculator\bin\Debug\net6.0\Sewer_Bill_Calculator.runtimeconfig.json
+C:\Users\USER\source\repos\Sewer_Bill_Calculator\bin\Debug\net6.0\Sewer_Bill_Calculator.dll
+C:\Users\USER\source\repos\Sewer_Bill_Calculator\bin\Debug\net6.0\Sewer_Bill_Calculator.pdb
+C:\Users\USER\source\repos\Sewer_Bill_Calculator\obj\Debug\net6.0\Sewer_Bill_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Sewer_Bill_Calculator\obj\Debug\net6.0\Sewer_Bill_Calculator.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Sewer_Bill_Calculator\obj\Debug\net6.0\Sewer_Bill_Calculator.AssemblyInfo.cs
+C:\Users\USER\source\repos\Sewer_Bill_Calculator\obj\Debug\net6.0\Sewer_Bill_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Sewer_Bill_Calculator\obj\Debug\net6.0\Sewer_Bill_Calculator.dll
+C:\Users\USER\source\repos\Sewer_Bill_Calculator\obj\Debug\net6.0\refint\Sewer_Bill_Calculator.dll
+C:\Users\USER\source\repos\Sewer_Bill_Calculator\obj\Debug\net6.0\Sewer_Bill_Calculator.pdb
+C:\Users\USER\source\repos\Sewer_Bill_Calculator\obj\Debug\net6.0\Sewer_Bill_Calculator.genruntimeconfig.cache
+C:\Users\USER\source\repos\Sewer_Bill_Calculator\obj\Debug\net6.0\ref\Sewer_Bill_Calculator.dll
