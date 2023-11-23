@@ -53,4 +53,4 @@ Microsoft Docs - C#
 - *josephochieng922@gmail.com*
 - *owenhood80@gmail.com*
 - *sheetamima@gmail.com*
-- *jeyzwilsonco@gmail.com*
+- *jeyzwilinsco@gmail.com*
