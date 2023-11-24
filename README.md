@@ -63,7 +63,7 @@ This project is licensed under the MIT License. See [LICENSE](https://github.com
 - *owenhood80@gmail.com*
 - *sheetamima@gmail.com*
 - *jeyzwilinsco@gmail.com*
-- *amosnzuki2003@gmail.com*
+- *amosnzuki84@gmail.com*
 - *matish9409@gmail.com*
 - *winfredmawia94@gmail.com*
 - *jameskiala54@gmail.com*
