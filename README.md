@@ -40,10 +40,10 @@ Run the application and follow the on-screen instructions to perform calculation
 Your inputs should be valid and follow the on screen prompts.
 
 ### Contributing
-If you'd like to contribute, please fork the repository and then create a pull request. See contributing file.
+If you'd like to contribute, please fork the repository and then create a pull request. See  [CONTRIBUTING](https://github.com/A1pha4/Sewer_Bill_Calculator./blob/main/CONTRIBUTING.md)file.
 
 ### License
-This project is licensed under the MIT License. See licence file.
+This project is licensed under the MIT License. See [LICENSE](https://github.com/A1pha4/Sewer_Bill_Calculator./blob/main/LICENSE) file.
 
 ### Authors and Acknowledgments
 - *Owen Murunga*
