@@ -1,5 +1,6 @@
 # Sewer_Bill_Calculator.
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-3.1%20%7C%205.0%20%7C%206.0-blue)
+![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)
 - The Sewer Bill Calculator is a simple C# application designed to help users estimate their Sewerage bills based on input parameters such as usage, rates, and other relevant factors. This calculator aims to provide users with a quick and easy way to get an approximate idea of their sewerage expenses.
 ![sewer_bill_interface](https://github.com/A1pha4/Sewer_Bill_Calculator./blob/main/sewer_bill_interface.png)
 
@@ -13,7 +14,7 @@
 
 ## Getting Started
 
-These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
+- These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -45,8 +46,16 @@ If you'd like to contribute, please fork the repository and then create a pull r
 This project is licensed under the MIT License. See licence file.
 
 ### Authors and Acknowledgments
-Owen Murunga, Joseph Ochieng, Amos Nzuki, Deche Wilson, Tamima Shee, Joseph Matiko, James Kiala, Abdulkadir Said.
-Microsoft Docs - C#
+- *Owen Murunga*
+- *Joseph Ochieng*
+- *Winfred Mawia*
+- *Amos Nzuki*
+- *Deche Wilson*
+- *Tamima Shee*
+- *Joseph Matiko*
+- *James Kiala*
+- *Abdulkadir Said*
+- Microsoft Docs - C#
 
 ### Contact and Support 
 - *abdulkadirsaid2103@gmail.com*
@@ -54,3 +63,7 @@ Microsoft Docs - C#
 - *owenhood80@gmail.com*
 - *sheetamima@gmail.com*
 - *jeyzwilinsco@gmail.com*
+- *amosnzuki2003@gmail.com*
+- *matish9409@gmail.com*
+- *winfredmawia94@gmail.com*
+- *jameskiala54@gmail.com*
